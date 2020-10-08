@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.vcfaz.tv</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.vcfaz.tv</url>
+  </channel>
+</tv>
